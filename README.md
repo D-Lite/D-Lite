@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/D-Lite)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theolabemiwodaniel/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/danielolabemiwo/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fikkyman1)]
-// [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jobowonubi/)](https://medium.com/@jobowonubi) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fikkyman1)](https://www.twitter.com/fikkyman1/)
+[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@olabemiwodaniel/)](https://medium.com/@olabemiwodaniel) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:olabemiwodaniel@gmail.com)
 <!-- 
 <a href="https://wa.me/2348100134741?text=Hi Job">
@@ -52,8 +52,8 @@ At this instance, I am in my B.Sc. Computer Science finals in [University of Ilo
 -->
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **PHP, HTML, C++, JavaScript, Dart, Java, Python**
-- Libraries/Frameworks: - **Bootstrap, Flutter, JQuery, REST API**
+- Languages - **PHP, HTML, C, JavaScript, Dart, Java, Python**
+- Libraries/Frameworks: - **Bootstrap, Flutter, JQuery, REST API, Processing**
 - Databases/ODM: - **MySQL**
 - Tools: - **CLI, Git, Github and Developer Tool**
 
