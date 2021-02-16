@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fikkyman1)](https://www.twitter.com/fikkyman1/)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@olabemiwodaniel/)](https://medium.com/@olabemiwodaniel) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:olabemiwodaniel@gmail.com)
-<!-- 
-<a href="https://wa.me/2348100134741?text=Hi Job">
+<a href="https://wa.me/+2349035135299?text=Hi Daniel(GIT),">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
--->
+
 &nbsp;
 
 <!--
@@ -52,11 +51,21 @@ At this instance, I am in my B.Sc. Computer Science finals in [University of Ilo
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: jobowonubi@gmail.com
 -->
+### About Me ###
+----------------------------------------------------------------------------------------------------------------------------
+- Innovator
+- Data Structure and Algorithms
+- Web Development
+- Mobile Development (In Progress)
+- AI et ML (In view)
+- Researcher
+
+📫 How to reach me: dlitecoder@gmail.com
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **PHP, HTML, C, JavaScript, Dart, Java, Python**
-- Libraries/Frameworks: - **Bootstrap, Flutter, JQuery, REST API, Processing**
-- Databases/ODM: - **MySQL**
+- Languages - **PHP, HTML, C, Kotlin, JavaScript(Vanilla, Node), Java, Python**
+- Libraries/Frameworks: - **Bootstrap, JQuery, REST API, Processing, Tailwind, Laravel, VueJS**
+- Databases/ODM: - **MySQL, mongoDB, firebase**
 - Tools: - **CLI, Git, Github and Developer Tool**
 
 ### Languages and Tools:
@@ -68,7 +77,7 @@ At this instance, I am in my B.Sc. Computer Science finals in [University of Ilo
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="Django" width="26px" src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4"/>
+<img width="320" alt="vercel" src="https://user-images.githubusercontent.com/44473671/108044679-dd6d1c80-7042-11eb-9159-298128b47c15.png">
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
@@ -81,6 +90,5 @@ At this instance, I am in my B.Sc. Computer Science finals in [University of Ilo
 <img align="left" alt="Vue" width="26px" src="https://user-images.githubusercontent.com/44473671/108044197-41dbac00-7042-11eb-8f64-666d487d11d2.png"/>
 <br />
 <br />
-
 
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=D-Lite&theme=dark&hide=["issues"]&show_icons=true)
