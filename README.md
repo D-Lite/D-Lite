@@ -1,21 +1,8 @@
-### Hi there 👋, I am Daniel Olabemiwo (litecoder).
+### Hi there 👋, I am Daniel Olabemiwo.
 ## I am a Software Engineer
 
 
-#### I am involved in Control and Automation, Mobile Development, Web Development, AI and good UX✨ 
-<!--
-**D-Lite/D-Lite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on A weather app
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything PHP
-- 📫 How to reach me: olabemiwodaniel@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: !!!
-
--->
+#### I write concerning Web Development,Mobile Development and good UX✨ 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/D-Lite)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theolabemiwodaniel/)
@@ -23,48 +10,21 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fikkyman1)](https://www.twitter.com/fikkyman1/)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@olabemiwodaniel/)](https://medium.com/@olabemiwodaniel) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:olabemiwodaniel@gmail.com)
-<a href="https://wa.me/+2349035135299?text=Hi Daniel(GIT),">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
-</a>
+&nbsp; 
 
-&nbsp;
-
-<!--
-### About Me ###
-----------------------------------------------------------------------------------------------------------------------------
-- Data Structure and Algorithms
-- Web Development
-- Mobile Development (In Progress)
-- AI et ML (In view)
-- P5.js
-- Researcher
---
-Currently, I am learning Laravel and Vue JS (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
-I have completed my 4 years National Diploma and Higher National Diploma in Computer Science from [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
-At this instance, I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
---
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
---
-- 🔭 I’m currently creating a Banking System using Django
-- 🌱 I’m currently learning Django 
-- 👯 I’m looking to collaborate on open source project
-- 💬 Ask me about anything and everything
-- 📫 How to reach me: jobowonubi@gmail.com
--->
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Innovator
-- Data Structure and Algorithms
 - Web Development
-- Mobile Development (In Progress)
-- AI et ML (In view)
-- Researcher
+- Mobile Development (Progressively)
+- Read and write
+- Google, stackoverflow guy
 
 📫 How to reach me: dlitecoder@gmail.com
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **PHP, HTML, C, Kotlin, JavaScript(Vanilla, Node), Java, Python**
-- Libraries/Frameworks: - **Bootstrap, JQuery, REST API, Processing, Tailwind, Laravel, VueJS**
+- Languages - **PHP, HTML, C, Kotlin, JavaScript(Vanilla), Python**
+- Libraries/Frameworks: - **Bootstrap, JQuery, REST API, GraphQL Processing, Tailwind, Laravel, VueJS**
 - Databases/ODM: - **MySQL, mongoDB, firebase**
 - Tools: - **CLI, Git, Github and Developer Tool**
 
