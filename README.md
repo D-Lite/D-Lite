@@ -1,8 +1,8 @@
-### Hi there 👋, I am Daniel Olabemiwo (litecoder).
+### Hi there 👋, I am Daniel Olabemiwo.
 ## I am a Software Engineer
 
 
-#### I am involved in Control and Automation, Mobile Development, Web Development, AI and good UX✨ 
+#### I write concerning Web Development,Mobile Development and good UX✨ 
 <!--
 **D-Lite/D-Lite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -27,30 +27,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
 
-&nbsp;
+&nbsp; 
 
-<!--
-### About Me ###
-----------------------------------------------------------------------------------------------------------------------------
-- Data Structure and Algorithms
-- Web Development
-- Mobile Development (In Progress)
-- AI et ML (In view)
-- P5.js
-- Researcher
---
-Currently, I am learning Laravel and Vue JS (Check my [repo](https://github.com/jobic10?tab=repositories) for more).
-I have completed my 4 years National Diploma and Higher National Diploma in Computer Science from [Kogi State Polytechnic, Lokoja](https://www.kogistatepolytechnic.edu.ng/).
-At this instance, I am in my B.Sc. Computer Science finals in [University of Ilorin, Ilorin](https://www.unilorin.edu.ng/).
---
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
---
-- 🔭 I’m currently creating a Banking System using Django
-- 🌱 I’m currently learning Django 
-- 👯 I’m looking to collaborate on open source project
-- 💬 Ask me about anything and everything
-- 📫 How to reach me: jobowonubi@gmail.com
--->
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Innovator
