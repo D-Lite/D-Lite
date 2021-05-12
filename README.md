@@ -32,17 +32,16 @@ Here are some ideas to get you started:
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Innovator
-- Data Structure and Algorithms
 - Web Development
-- Mobile Development (In Progress)
-- AI et ML (In view)
-- Researcher
+- Mobile Development (Progressively)
+- Read and write
+- Google, stackoverflow guy
 
 📫 How to reach me: dlitecoder@gmail.com
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **PHP, HTML, C, Kotlin, JavaScript(Vanilla, Node), Java, Python**
-- Libraries/Frameworks: - **Bootstrap, JQuery, REST API, Processing, Tailwind, Laravel, VueJS**
+- Languages - **PHP, HTML, C, Kotlin, JavaScript(Vanilla), Python**
+- Libraries/Frameworks: - **Bootstrap, JQuery, REST API, GraphQL Processing, Tailwind, Laravel, VueJS**
 - Databases/ODM: - **MySQL, mongoDB, firebase**
 - Tools: - **CLI, Git, Github and Developer Tool**
 
